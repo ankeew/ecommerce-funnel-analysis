@@ -1,0 +1,11 @@
+# данные и кэш
+ecommerce_sample.csv
+*.csv
+.ipynb_checkpoints/
+__pycache__/
+*.pyc
+.DS_Store
+
+
+business_report.md
+readme_results.md
